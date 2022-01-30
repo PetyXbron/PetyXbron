@@ -5,7 +5,7 @@
 - 🤵‍♂️ &nbsp;**Comedian** *A funny entertainer*
 
 **Projects:**
-- 🤖 &nbsp;**[R2D2 Bot](https://top.gg/bot/729243368579924049)** *Moderation, fun, utility bot*
+- 🚀 &nbsp;**[R2D2 Bot](https://top.gg/bot/729243368579924049)** *Moderation, fun, utility bot*
 - 💻 &nbsp;**[MC Bot](https://github.com/PetyXbron/minecraft-bot)** *Custom Minecraft Discord bot template*
 - 🕹️ &nbsp;**[SuroCraft](https://linktr.ee/surocraft)** *Survival Minecraft server*
 
@@ -17,7 +17,9 @@
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DiscordJS](https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue) ![Gitbook](https://img.shields.io/badge/gitbook-%23000000?style=for-the-badge&logo=gitbook&logoColor=4285fd)
+  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VSC-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
