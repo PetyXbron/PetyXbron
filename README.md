@@ -8,23 +8,18 @@
 - 🎮 &nbsp;**Gamer** *Minecraft, CS:GO, Overwatch*
 - 🤵‍♂️ &nbsp;**Comedian** *A funny entertainer*
 
-**Projects:**
-- 🚀 &nbsp;**[R2D2 Bot](https://top.gg/bot/729243368579924049)**
-
-  *Moderation, fun, utility and music Discord bot.*
-- 💻 &nbsp;**[minecraft-bot](https://github.com/PetyXbron/minecraft-bot)**
-
-  *Custom & simple Minecraft Discord bot template*
-- 🕹️ &nbsp;**[SuroCraft](https://linktr.ee/surocraft)**
-
-  *Czech survival Minecraft server.*
-
 
 <div align="center">
 
 ---
 
-### Languages and Tools
+### PROJECTS
+ 
+[![R2D2 Bot](https://img.shields.io/badge/R2D2%20Bot-062055?style=for-the-badge)](https://top.gg/bot/729243368579924049) [![minecraft-bot](https://img.shields.io/badge/minecraft%2Dbot-9f4b2e?style=for-the-badge&labelColor=08c116)](https://github.com/PetyXbron/minecraft-bot) [![SuroCraft](https://img.shields.io/badge/surocraft-87335a?style=for-the-badge)](https://github.com/surocraft)
+
+---
+
+### LANGUAGES AND TOOLS
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DiscordJS](https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue) ![Gitbook](https://img.shields.io/badge/gitbook-%23000000?style=for-the-badge&logo=gitbook&logoColor=4285fd)
   
@@ -34,7 +29,7 @@
 
 ---
 
-### Stats
+### STATS
 
 ![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=PetyXbron&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
