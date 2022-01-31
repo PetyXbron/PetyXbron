@@ -1,13 +1,23 @@
-## PetyXbron [![Linktree](https://img.shields.io/badge/Useful%20Links-%23121011.svg?style=flat&logo=linktree&logoColor=white?color=40,191,123)](https://linktr.ee/petyxbron)
+# PetyXbron [![Linktree](https://img.shields.io/badge/Useful%20Links-%23121011.svg?style=flat&logo=linktree&logoColor=white?color=40,191,123)](https://linktr.ee/petyxbron)
+
+![PetyXbron Discord](https://discord.c99.nl/widget/theme-3/411436203330502658.png)
+
+## About
 
 - 🤖 &nbsp;**Discord.js** *Coding Discord bots*
-- 🎮 &nbsp;**Gamer** *Minecraft, CS:GO, Overwatch, Brawl Stars*
+- 🎮 &nbsp;**Gamer** *Minecraft, CS:GO, Overwatch*
 - 🤵‍♂️ &nbsp;**Comedian** *A funny entertainer*
 
 **Projects:**
-- 🚀 &nbsp;**[R2D2 Bot](https://top.gg/bot/729243368579924049)** *Moderation, fun, utility bot*
-- 💻 &nbsp;**[MC Bot](https://github.com/PetyXbron/minecraft-bot)** *Custom Minecraft Discord bot template*
-- 🕹️ &nbsp;**[SuroCraft](https://linktr.ee/surocraft)** *Survival Minecraft server*
+- 🚀 &nbsp;**[R2D2 Bot](https://top.gg/bot/729243368579924049)**
+
+  *Moderation, fun, utility and music Discord bot.*
+- 💻 &nbsp;**[minecraft-bot](https://github.com/PetyXbron/minecraft-bot)**
+
+  *Custom & simple Minecraft Discord bot template*
+- 🕹️ &nbsp;**[SuroCraft](https://linktr.ee/surocraft)**
+
+  *Czech survival Minecraft server.*
 
 
 <div align="center">
