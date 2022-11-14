@@ -18,7 +18,7 @@
 
 ### PROJECTS
  
-![R2D2 Bot](https://img.shields.io/badge/R2D2%20Bot-062055?style=for-the-badge) [![minecraft-bot](https://img.shields.io/badge/minecraft%2Dbot-9f4b2e?style=for-the-badge&labelColor=08c116)](https://github.com/PetyXbron/minecraft-bot) [![SuroCraft](https://img.shields.io/badge/surocraft-87335a?style=for-the-badge)](https://github.com/surocraft)
+[![R2D2 Bot](https://img.shields.io/badge/R2D2%20Bot-062055?style=for-the-badge)](https://r2d2.petyxbron.cz) [![minecraft-bot](https://img.shields.io/badge/minecraft%2Dbot-9f4b2e?style=for-the-badge&labelColor=08c116)](https://github.com/PetyXbron/minecraft-bot) [![SuroCraft](https://img.shields.io/badge/surocraft-87335a?style=for-the-badge)](https://github.com/surocraft)
 
 ---
 
