@@ -1,9 +1,10 @@
-# PetyXbron [![Linktree](https://img.shields.io/badge/Useful%20Links-%23121011.svg?style=flat&logo=linktree&logoColor=white?color=40,191,123)](https://linktr.ee/petyxbron)
+# PetyXbron [![Linktree](https://img.shields.io/badge/Useful%20Links-%23121011.svg?style=flat&logo=linktree&logoColor=white?color=40,191,123)](https://petyxbron.cz/links)
 
 ![PetyXbron Discord](https://discord.c99.nl/widget/theme-3/411436203330502658.png)<br />
 *I am no longer accepting Discord friend requests from unknown users.*<br />
-**If you need some help with my projects, please visit [our Discord server](https://discord.com/invite/PYTqqhWad2).**<br />
-[![Azator Entertainment Discord banner](https://discordapp.com/api/guilds/789494558538858547/widget.png?style=banner2)](https://discord.com/invite/PYTqqhWad2)
+**If you need some help with my projects, please visit [our Discord server](https://dsc.gg/azator).**<br />
+[![Azator Entertainment Discord banner](https://invidget.switchblade.xyz/789494558538858547)](https://dsc.gg/azator)<br />
+**Also, check my website https://petyxbron.cz/!**
 
 ## About
 
