@@ -1,4 +1,4 @@
-# PetyXbron [![Linktree](https://img.shields.io/badge/Useful%20Links-%23121011.svg?style=flat&logo=linktree&logoColor=white?color=40,191,123)](https://petyxbron.cz/links) ![Profile views](https://komarev.com/ghpvc/?username=PetyXbron)
+# PetyXbron [![Linktree](https://img.shields.io/badge/Useful%20Links-%23121011.svg?style=flat&logo=linktree&logoColor=white?color=40,191,123)](https://petyxbron.cz/links) ![Profile views](https://komarev.com/ghpvc/?username=PetyXbron&color=43e55e&abbreviated=true)
 
 ![PetyXbron Discord](https://discord.c99.nl/widget/theme-3/411436203330502658.png)<br />
 *I am no longer accepting Discord friend requests from unknown users.*<br />
